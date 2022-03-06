@@ -15,7 +15,7 @@ Are you a mobile developer? Do you own a mobile application? That’s awesome! N
 Our SDK is super lite and harmless, you can check our public code online in GitHub, it doesn’t require any special permission and won’t operate by itself. All you have to do is to initiate our reporter in case the user wants to (you’ll need an API key for that) and we’ll take it from there.
 
 ### Plug n' Play 🔌
-We’re currently available for easy installation in iOS, Android and Flutter.
+We’re currently available for easy installation in [iOS](https://github.com/TheButterflySDK/iOS), [Android](https://github.com/TheButterflySDK/Android) and [Flutter](https://github.com/TheButterflySDK/Flutter).
 
 
 Thanks and good luck to us all!
