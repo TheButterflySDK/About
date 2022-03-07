@@ -8,7 +8,7 @@
 Let’s stop the domestic violence together. You can use our SDK for sending reports to our help centers, from your mobile app.
 
 
-## Longer explanation below 🤓
+## Full explanation below 🤓
 
 The Butterfly SDK is your chance to take an active part, in the fight against domestic violence.
 
@@ -16,7 +16,7 @@ The Butterfly SDK is your chance to take an active part, in the fight against do
 Are you a mobile developer? Do you own a mobile application? That’s awesome! Now you can embed our **open-source** project inside your app and help us collect reports from anyone in a need, globally!
 
 ### Privacy, stability and security 🤝
-Our SDK is super light and harmless, you can check out our public code online in GitHub, it doesn’t require any special permission and won’t operate by itself. All you need to do is to call our reporter in case the user wants to (you’ll need an API key for that) and we’ll take it from there.
+Our SDK is light, super easy to install and harmless. You can check out our public code online in GitHub, it doesn’t require any special permission and won’t operate by itself. All you need to do is to call our reporter in case the user wants to (you’ll need an API key for that) and we’ll take it from there.
 
 ### Plug n' Play 🔌
 We’re currently available for easy installation in [iOS](https://github.com/TheButterflySDK/iOS), [Android](https://github.com/TheButterflySDK/Android) and [Flutter](https://github.com/TheButterflySDK/Flutter).
