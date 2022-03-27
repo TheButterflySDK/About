@@ -19,7 +19,7 @@ Are you a mobile developer? Do you own a mobile application? That’s awesome! N
 Our SDK is light, free to use, super easy to install and harmless. You can check out our public code online in [GitHub](https://github.com/TheButterflySDK?tab=repositories), it doesn’t require any special permission and won’t operate by itself. All you need to do is to call our reporter in case the user wants to (you’ll need an API key for that) and we’ll take it from there.
 
 ### Obtain an API key 🔑
-Untill we'll make a nice registration online form, feel free to contact the [dev team](http://www.linkedin.com/in/perrysh) directly and we'll be happy to assist.
+Feel free to fill in our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfNEQdh6BIZ0BH5RTQoh1Sc7IWkPLolOnIcltLhtQ79XbmSnw/viewform) and we'll be happy to assist and provide your API key.
 
 ### Plug n' Play 🔌
 We’re currently available for easy installation in [iOS](https://github.com/TheButterflySDK/iOS), [Android](https://github.com/TheButterflySDK/Android) and [Flutter](https://github.com/TheButterflySDK/Flutter).
