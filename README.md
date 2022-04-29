@@ -1,4 +1,4 @@
-# About The Butterfly SDK
+# About [The Butterfly SDK](https://www.facebook.com/thebutterflysdk)
 
 [![Platform-Flutter](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://github.com/TheButterflySDK/Flutter)
 [![Platform-iOS](https://img.shields.io/badge/Platform-iOS-white.svg)](https://github.com/TheButterflySDK/iOS)
@@ -23,6 +23,17 @@ Feel free to fill in our [registration form](https://docs.google.com/forms/d/e/1
 
 ### Plug n' Play 🔌
 We’re currently available for easy installation in [iOS](https://github.com/TheButterflySDK/iOS), [Android](https://github.com/TheButterflySDK/Android) and [Flutter](https://github.com/TheButterflySDK/Flutter).
+
+
+## User experience when using the Butterfly button
+So you decided to embed the butterfly button in your app - that's awesome!
+### Where would you put it?
+Anyware you like, it's your app. We don't try to hide the button, its actions are hidden. So you may put it in a convenient place inside your app.
+
+Our suggestion is to put it in the app's settings screen, because almost every app has its own "Settings Screen".
+
+Here you can see [several examples we posted in our Facebook page](https://www.facebook.com/thebutterflysdk/videos).
+
 
 Thanks and good luck to us all!
 
