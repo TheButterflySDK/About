@@ -1,4 +1,4 @@
-# About [The Butterfly SDK](https://www.facebook.com/thebutterflysdk)
+# About [The Butterfly SDK](https://www.facebook.com/thebutterflybutton)
 
 [![Platform-Flutter](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://github.com/TheButterflySDK/Flutter)
 [![Platform-iOS](https://img.shields.io/badge/Platform-iOS-white.svg)](https://github.com/TheButterflySDK/iOS)
