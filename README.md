@@ -23,7 +23,7 @@ Our SDK is light, free to use, super easy to install and harmless. You can check
 Feel free to fill in our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfNEQdh6BIZ0BH5RTQoh1Sc7IWkPLolOnIcltLhtQ79XbmSnw/viewform) and we'll be happy to assist and provide your API key.
 
 ### Plug n' Play 🔌
-We’re currently available for easy installation in [iOS](https://github.com/TheButterflySDK/iOS), [Android](https://github.com/TheButterflySDK/Android) and [Flutter](https://github.com/TheButterflySDK/Flutter).
+We’re currently available for easy installation in [web](https://github.com/TheButterflySDK/Web), [iOS](https://github.com/TheButterflySDK/iOS), [Android](https://github.com/TheButterflySDK/Android) and [Flutter](https://github.com/TheButterflySDK/Flutter) for mobile.
 
 
 ## User experience when using the Butterfly button
