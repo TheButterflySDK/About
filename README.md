@@ -3,6 +3,7 @@
 [![Platform-Flutter](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://github.com/TheButterflySDK/Flutter)
 [![Platform-iOS](https://img.shields.io/badge/Platform-iOS-white.svg)](https://github.com/TheButterflySDK/iOS)
 [![Platform-Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/TheButterflySDK/Android)
+[![Platform](https://img.shields.io/badge/Platform-Web-white.svg)](https://github.com/TheButterflySDK/Web)
 
 ## TL;DR
 Let’s stop the domestic violence together. You can use our SDK for sending reports to our help centers, from your mobile app.
