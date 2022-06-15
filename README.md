@@ -1,4 +1,4 @@
-# About The Butterfly SDK ([f](https://www.facebook.com/thebutterflybutton), [L](https://www.linkedin.com/company/butterfly-button), [Hebrew website](https://butterfly-host.web.app))
+# About The Butterfly SDK ([f](https://www.facebook.com/thebutterflybutton), [L](https://www.linkedin.com/company/butterfly-button), [Hebrew website](https://butterfly-button.web.app))
 
 [![Platform-Flutter](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://github.com/TheButterflySDK/Flutter)
 [![Platform-iOS](https://img.shields.io/badge/Platform-iOS-lightgray.svg)](https://github.com/TheButterflySDK/iOS)
