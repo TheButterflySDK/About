@@ -33,7 +33,7 @@ Anyware you like, it's your app. We don't try to hide the button, its actions ar
 
 Our suggestion is to put it in the app's settings screen, because almost every app has its own "Settings Screen".
 
-You can find our examples ([example 1](https://butterfly-host.web.app/videos/Usage-Example-1.mp4) and [example 2](https://butterfly-host.web.app/videos/Usage-Example-2.mp4)) to get some inspiration.
+You can find our examples ([example 1](https://butterfly-button.web.app/videos/Usage-Example-1.mp4) and [example 2](https://butterfly-button.web.app/videos/Usage-Example-2.mp4)) to get some inspiration.
 
 ###
 
