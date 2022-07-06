@@ -1,4 +1,6 @@
-# About The Butterfly SDK ([f](https://www.facebook.com/thebutterflybutton), [L](https://www.linkedin.com/company/butterfly-button), [our website](https://butterfly-button.web.app))
+# About The Butterfly SDK ([<img src="https://butterfly-button.web.app/img/facebook.png" alt="LinkedIn" width="30"/>](https://www.facebook.com/thebutterflybutton), [<img src="https://butterfly-button.web.app/img/linkedin.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/company/butterfly-button), [our website](https://butterfly-button.web.app))
+
+
 
 [![Platform-Flutter](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://github.com/TheButterflySDK/Flutter)
 [![Platform-iOS](https://img.shields.io/badge/Platform-iOS-lightgray.svg)](https://github.com/TheButterflySDK/iOS)
