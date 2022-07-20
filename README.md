@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Web-white.svg)](https://github.com/TheButterflySDK/Web)
 
 ## TL;DR
-Let’s stop the domestic violence together. You can use our SDK for sending reports to our help centers, from your mobile app.
+Let’s stop the domestic violence together. Use our SDK to allow your user send their reports to our help centers around the world, from your mobile app.
 
 
 ## Full explanation below 🤓
