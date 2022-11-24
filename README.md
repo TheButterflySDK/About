@@ -32,11 +32,13 @@ We’re currently available for easy installation in [web](https://github.com/Th
 So you decided to embed the butterfly button in your app - that's great!
 
 ### Where would you put it?
-Anyware you like, it's your app. We don't attempt to hide the button although its usage is hidden. You may put it in a convenient place inside your app.
+Anyware you like, it's your app. We don't attempt to hide the button although its usage is hidden. You may put it in a convenient place inside your app. We suggest putting it on the home screen in order to raise awareness.
+See these examples to get some inspiration:
 
-Our suggestion is to put it in the app's settings screen, because almost every app has its own "Settings Screen".
 
-You can find our examples ([example 1](https://butterfly-button.web.app/videos/Usage-Example-1.mp4) and [example 2](https://butterfly-button.web.app/videos/Usage-Example-2.mp4)) to get some inspiration.
+<img src="https://user-images.githubusercontent.com/100164625/203774493-afe13433-7839-47aa-bc80-a1cef0c32f6d.jpeg" alt="pro-mas" style="width:200px;"/> <img src="https://user-images.githubusercontent.com/100164625/203774502-d0cee942-24f5-4d39-973a-cb6c392ec99e.jpeg" alt="vaad-max" style="width:200px;"/>
+
+
 
 ###
 
